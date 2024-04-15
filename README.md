@@ -12,7 +12,10 @@ Tools & Platforms: Docker, Azure
 
 
 🔍 Get in Touch
+
 LinkedIn:https://www.linkedin.com/in/sameer-d-mansuri-9017731ba
+
 Email: 0mansurisameer0@gmail.com
+
 Let's collaborate and create remarkable software solutions together!
 
