@@ -8,10 +8,8 @@ Languages: C#, JavaScript
 Frameworks: ASP .NET Core, ADO .NET, React, Angular
 Databases: MySQL, SQL Server, Postgres SQL
 Tools & Platforms: Docker, Azure
-🚀 My Projects
-Project 1: Short description
-Project 2: Short description
-Project 3: Short description
+
+
 🔍 Get in Touch
 LinkedIn:https://www.linkedin.com/in/sameer-d-mansuri-9017731ba
 Email: 0mansurisameer0@gmail.com
