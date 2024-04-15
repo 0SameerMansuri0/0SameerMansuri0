@@ -1,13 +1,18 @@
 
 Hi there, I'm SAMEER MANSURI 👋
 
-🌟 About Me:-
+🌟 About Me
+
 I'm a passionate .NET Full Stack Developer at Neosoft Technologies, driven by a relentless pursuit of excellence in software development. With a strong foundation in C# and Angular, I thrive in Agile environments, constantly pushing boundaries to deliver innovative solutions.
 
-💼 Skills:-
+💼 Skills:
+
 Languages: C#, JavaScript
+
 Frameworks: ASP .NET Core, ADO .NET, React, Angular
+
 Databases: MySQL, SQL Server, Postgres SQL
+
 Tools & Platforms: Docker, Azure
 
 
