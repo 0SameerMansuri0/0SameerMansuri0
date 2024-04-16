@@ -1,9 +1,8 @@
-![MaterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/152a3665798465.5b68b2f9e02e7.gif)
-<!--https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/40177c167807665.642f1bbaad9fe.gif-->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+<br><br><!--https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/40177c167807665.642f1bbaad9fe.gif-->
 <!--https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif-->
 <h1 align="center">Hi 👋, I'm Sameer Mansuri</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="700" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/56bc2e65798465.5dae09b32b006.gif">
 
 
 
