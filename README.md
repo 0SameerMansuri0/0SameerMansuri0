@@ -89,7 +89,6 @@ I enjoy solving complex problems, writing clean and maintainable code, improving
 
 ### ☁️ DevOps & Tools
 
-* Azure
 * IIS
 * Docker
 * Git
